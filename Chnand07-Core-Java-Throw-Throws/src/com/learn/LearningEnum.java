@@ -1,0 +1,6 @@
+package com.learn;
+
+public enum LearningEnum {
+
+	COREJAVA,COLLECTION,GENERICS,JSPANDSERVLET,MULTITHREADING
+}
